@@ -1,3 +1,7 @@
+Link to view the application https://petsapi.netlify.app/
+You may need to disable the browser secure connection
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
